@@ -4,6 +4,8 @@ repo: cjgvrp-status-page
 sites:
   - name: CJGVRP Identify Site 
     url: https://id-dev.cjgvrp.com/s/status # TODO: Update URL
+  - name: CJGVRP Developer Documentation
+    url: https://developer.cjgvrp.com
 
 status-website:
   cname: status.cjgvrp.com
