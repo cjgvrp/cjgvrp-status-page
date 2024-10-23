@@ -4,35 +4,39 @@
     "url": "https://id-dev.cjgvrp.com/s/status",
     "icon": "https://icons.duckduckgo.com/ip3/id-dev.cjgvrp.com.ico",
     "slug": "cjgvrp-identify-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 555,
-    "timeDay": 529,
-    "timeWeek": 597,
-    "timeMonth": 568,
-    "timeYear": 555,
-    "dailyMinutesDown": {}
+    "time": 547,
+    "timeDay": 333,
+    "timeWeek": 539,
+    "timeMonth": 554,
+    "timeYear": 547,
+    "dailyMinutesDown": {
+      "2024-10-23": 0
+    }
   },
   {
     "name": "CJGVRP Developer Documentation",
     "url": "https://developer.cjgvrp.com",
     "icon": "https://icons.duckduckgo.com/ip3/developer.cjgvrp.com.ico",
     "slug": "cjgvrp-developer-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 247,
-    "timeDay": 250,
-    "timeWeek": 242,
-    "timeMonth": 245,
-    "timeYear": 247,
-    "dailyMinutesDown": {}
+    "time": 243,
+    "timeDay": 166,
+    "timeWeek": 222,
+    "timeMonth": 240,
+    "timeYear": 243,
+    "dailyMinutesDown": {
+      "2024-10-23": 0
+    }
   }
 ]
